@@ -5,6 +5,7 @@ html,body{
 }
 body{
   background: url("df3.png");
+  background-position: center;
   background-size: cover;
 }
 .container{
